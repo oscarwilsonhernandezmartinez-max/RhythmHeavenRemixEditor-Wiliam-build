@@ -1,4 +1,4 @@
-**This is not Oficial, if you want to, contribute the original RHRE (archived) go to**
+**This is not Oficial, if you want to go the original RHRE (archived) go [Here](https://github.com/chrislo27/RhythmHeavenRemixEditor)**
 
 <img align="right" src="core/assets/images/icon/256.png" height="256" width="256">
 
@@ -7,7 +7,7 @@ A custom remix editor for the [Rhythm Heaven](https://en.wikipedia.org/wiki/Rhyt
 
 ### Welcome
 
-> As of 2020-10-25, the original project is no longer in development, and is not accepting new issues.
+> As of 2020-10-25, the original RHRE3 project is no longer in development, and is not accepting new issues.
 
 Check out the [Rhythm Heaven Game Randomizer](https://github.com/chrislo27/RHGR)—a tool to set remixing challenges<br>
 Also see the [RHRE SFX Database Editor](https://github.com/chrislo27/RSDE)—a GUI for editing the RHRE SFX Database<br>
